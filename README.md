@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Robin
-- 👀 I’m interested in - Java/Python
+- 👀 I’m interested in - Technology
 - 🌱 I’m learning all the time
 - 💞️ I’m currently working at Sigma
 
